@@ -1,0 +1,9 @@
+complaint_type,eligible_requests,closed_within_window,pct_closed_within_window
+Noise - Commercial,126,58,46.0
+Noise - Vehicle,122,52,42.6
+Noise - Residential,682,277,40.6
+Noise - Street/Sidewalk,757,288,38.0
+Illegal Parking,356,98,27.5
+Illegal Fireworks,37,8,21.6
+Blocked Driveway,116,23,19.8
+Street Condition,33,1,3.0

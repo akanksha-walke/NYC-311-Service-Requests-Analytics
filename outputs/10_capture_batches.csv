@@ -1,0 +1,4 @@
+batch,first_created,last_created,unique_requests,times_loaded_in_file,eligible_requests,closed_within_window,pct_closed_within_window
+0,2026-07-17 23:34:58,2026-07-18 02:55:59,1000,1,999,368,36.8
+1,2026-07-19 23:36:40,2026-07-20 02:30:31,1000,3,885,290,32.8
+2,2026-07-20 22:20:18,2026-07-21 01:54:47,1000,2,846,215,25.4

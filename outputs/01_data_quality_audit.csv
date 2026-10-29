@@ -1,0 +1,2 @@
+rows_in_file,unique_requests,duplicate_rows,max_copies_of_one_request,first_created,last_created,no_closed_date,closed_before_created,requests_with_due_date,created_exactly_midnight,complaint_types_raw,complaint_types_after_standardizing
+6000,3000,3000,3,2026-07-17 23:34:58,2026-07-21 01:54:47,1688,0,0,1,84,84
